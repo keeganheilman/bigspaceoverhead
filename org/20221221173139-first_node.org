@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       104013c2-838d-4460-8ae6-31e6c09cc526
+:END:
+#+title: first-node
+

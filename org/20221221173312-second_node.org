@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b1c6575f-58db-4220-af40-85eb4285a0cc
+:END:
+#+title: second-node
+Something on Second Node
+[[id:104013c2-838d-4460-8ae6-31e6c09cc526][first-node]]
