@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       75380696-4bb0-46d1-8594-48c6352393e9
+:END:
+#+title: have-read
+
+Stuff that makes it here should have some notes.
+We'll see how diligent I remain.
