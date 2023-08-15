@@ -3,15 +3,16 @@
 :END:
 #+title: the-reading-pile
 
-This is the ever-growing -- always incomplete -- heap of text I'm eyeing to read.\n
-Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-reading]] then eventually to [[id:75380696-4bb0-46d1-8594-48c6352393e9][have-read]].\n
+This is the ever-growing -- always incomplete -- heap of texts for perspective.
+Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-reading]] then eventually to [[id:75380696-4bb0-46d1-8594-48c6352393e9][have-read]].
 
-** An Introduction to Information Theory - Symbols, Signals and Noise
-*** John R. Pierce
-** The Balkans - Nationalism, War, and the Great Powers (1804-2011)
-*** Misha Glenny
-** Life For Sale
-*** Yukio Mishima
+** Information Theory
+- Pierce, John R. An Introduction to Information Theory: Symbols, Signals and Noise
+
+** History
+- Glenny, Misha. The Balkans: Nationalism, War, and the Great Powers (1804-2011)
+
+** Fiction
+- Mishima, Yukio. Life For Sale
 
 
-[[id:104013c2-838d-4460-8ae6-31e6c09cc526][first-node]]
