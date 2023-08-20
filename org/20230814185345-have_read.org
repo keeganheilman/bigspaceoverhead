@@ -3,5 +3,11 @@
 :END:
 #+title: have-read
 
+#+BEGIN_VERSE
 Stuff that makes it here should have some notes.
 We'll see how diligent I remain.
+#+END_VERSE
+
++ Haeng, Ji. A Synopsis of sorts
+  [[id:4e19a1d3-1d5e-4324-bab0-a1c872bd87c8][note]] link
+  
