@@ -3,8 +3,6 @@
 :END:
 #+title: currently-reading
 
-#+BEGIN_VERSE
-- Grant, Will. The Last Ride of the Pony Express
-  [#########----------] 45% complete
++ Grant, Will. The Last Ride of the Pony Express
+  [█████████----------] 45% complete
  
-#+END_VERSE
