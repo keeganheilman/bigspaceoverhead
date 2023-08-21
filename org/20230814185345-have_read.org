@@ -8,5 +8,11 @@ Stuff that makes it here should have some notes.
 We'll see how diligent I remain.
 #+END_VERSE
 
-+ Haeng, Ji. A Synopsis of Sort\t[[[id:4e19a1d3-1d5e-4324-bab0-a1c872bd87c8][note]]] [[[https://zenlasvegas.com/100-a-synopsis-of-sorts/][link]]]
-
++ Haeng, Ji. A Synopsis of Sort \\
+  [[id:4e19a1d3-1d5e-4324-bab0-a1c872bd87c8][note]] | [[https://zenlasvegas.com/100-a-synopsis-of-sorts/][link]] \\
++ Kelly, Maura. Where Everybody Knows Your Name \\
+  [[https://www.nytimes.com/2023/08/11/well/become-a-regular-loneliness.html][link]] \\
++ Segal, David. A Summer Rite in Spain: Coping with British Tourist Invasion\\
+  [[https://www.nytimes.com/2023/08/20/business/british-tourists-mallorca-drinking-local-economy.html][link]] \\
++ Smith, Rory. For Spain, a World Cup Title Built on Talent, Not Harmony \\
+  [[https://www.nytimes.com/2023/08/20/sports/soccer/womens-world-cup-win-spain-vilda-bonmati.html][link]] \\
