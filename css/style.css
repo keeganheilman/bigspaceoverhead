@@ -39,16 +39,16 @@ a[target="_blank"] { font-weight: normal; }
 /* } */
 
 
-/* h1 { */
-/*     font-family:sans-serif; */
-/*     display: block; */
-/*     font-size: 2em; */
-/*     margin-top: 0.67em; */
-/*     margin-bottom: 0.67em; */
-/*     margin-left: 0; */
-/*     margin-right: 0; */
-/*     font-weight: bold; */
-/* } */
+h1 {
+   font-family: 'Fraunces', serif;
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
 
 
 
@@ -71,161 +71,161 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-h1 {
-    font-family: 'Fraunces', serif;
-    font-size: 64px;
-    font-weight: 300;
-    line-height: 125%;
-    color: #232323;
-    margin: 0px;
-}
+/* h1 { */
 
-h2 {
-    font-family: 'Fraunces', serif;
-    font-size: 36px;
-    font-weight: 300;
-    line-height: 125%;
-    color: #232323;
-    margin: 0px;
-}
+/*     font-size: 64px; */
+/*     font-weight: 300; */
+/*     line-height: 125%; */
+/*     color: #232323; */
+/*     margin: 0px; */
+/* } */
 
-h3 {
-    font-family: 'Fraunces', serif;
-    font-size: 36px;
-    font-weight: 300;
-    font-style: italic;
-    line-height: 125%;
-    color: #232323;
-    margin-top: 24px;
-    margin-bottom: 0px;
-}
+/* h2 { */
+/*     font-family: 'Fraunces', serif; */
+/*     font-size: 36px; */
+/*     font-weight: 300; */
+/*     line-height: 125%; */
+/*     color: #232323; */
+/*     margin: 0px; */
+/* } */
 
-h4 {
-    font-family: 'Fraunces', serif;
-    font-size: 36px;
-    font-weight: 400;
-    line-height: 125%;
-    color: #232323;
-    margin: 0px;
-}
+/* h3 { */
+/*     font-family: 'Fraunces', serif; */
+/*     font-size: 36px; */
+/*     font-weight: 300; */
+/*     font-style: italic; */
+/*     line-height: 125%; */
+/*     color: #232323; */
+/*     margin-top: 24px; */
+/*     margin-bottom: 0px; */
+/* } */
 
-.aboutText a {
-    font-family: 'Fraunces', serif;
-    font-size: 22px;
-    font-weight: 300;
-    line-height: 150%;
-    color: #232323;
-    margin: 0px;
-    text-decoration: underline;
-}
+/* h4 { */
+/*     font-family: 'Fraunces', serif; */
+/*     font-size: 36px; */
+/*     font-weight: 400; */
+/*     line-height: 125%; */
+/*     color: #232323; */
+/*     margin: 0px; */
+/* } */
 
-h5 {
-    font-family: 'Roboto Mono', monospace;
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 125%;
-    color: #232323;
-    margin: 0px;
-}
+/* .aboutText a { */
+/*     font-family: 'Fraunces', serif; */
+/*     font-size: 22px; */
+/*     font-weight: 300; */
+/*     line-height: 150%; */
+/*     color: #232323; */
+/*     margin: 0px; */
+/*     text-decoration: underline; */
+/* } */
 
-p {
-    font-family: 'Fraunces', serif;
-    font-size: 22px;
-    font-weight: 300;
-    line-height: 150%;
-    color: #232323;
-    margin: 0px;
-}
+/* h5 { */
+/*     font-family: 'Roboto Mono', monospace; */
+/*     font-size: 13px; */
+/*     font-weight: 400; */
+/*     line-height: 125%; */
+/*     color: #232323; */
+/*     margin: 0px; */
+/* } */
 
-ul {
-    font-family: 'Fraunces', serif;
-    font-size: 22px;
-    font-weight: 300;
-    line-height: 150%;
-    color: #232323;
-    margin: 0px;
-    padding-left: 16px;
-}
+/* p { */
+/*     font-family: 'Fraunces', serif; */
+/*     font-size: 22px; */
+/*     font-weight: 300; */
+/*     line-height: 150%; */
+/*     color: #232323; */
+/*     margin: 0px; */
+/* } */
 
-li {
-    margin-top: 16px;
-}
+/* ul { */
+/*     font-family: 'Fraunces', serif; */
+/*     font-size: 22px; */
+/*     font-weight: 300; */
+/*     line-height: 150%; */
+/*     color: #232323; */
+/*     margin: 0px; */
+/*     padding-left: 16px; */
+/* } */
 
-strong {
-    font-weight: 400;
-}
+/* li { */
+/*     margin-top: 16px; */
+/* } */
 
-.caption {
-    color: #656568;
-    margin-top: 12px;
-}
+/* strong { */
+/*     font-weight: 400; */
+/* } */
 
-a, a :visited {
-    font-family: 'Fraunces', serif;
-    font-size: 22px;
-    font-weight: 300;
-    line-height: 150%;
-    color: #232323;
-    text-decoration: none;
-}
+/* .caption { */
+/*     color: #656568; */
+/*     margin-top: 12px; */
+/* } */
 
-.galleryProjectTitle a:hover {
-    text-decoration: underline;
-}
+/* a, a :visited { */
+/*     font-family: 'Fraunces', serif; */
+/*     font-size: 22px; */
+/*     font-weight: 300; */
+/*     line-height: 150%; */
+/*     color: #232323; */
+/*     text-decoration: none; */
+/* } */
 
-.projectDetails a {
-    font-family: 'Roboto Mono', monospace;
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 125%;
-    color: #232323;
-    text-decoration: none;
-}
+/* .galleryProjectTitle a:hover { */
+/*     text-decoration: underline; */
+/* } */
 
-.projectDetails a:hover {
-    text-decoration: underline;
-}
+/* .projectDetails a { */
+/*     font-family: 'Roboto Mono', monospace; */
+/*     font-size: 13px; */
+/*     font-weight: 400; */
+/*     line-height: 125%; */
+/*     color: #232323; */
+/*     text-decoration: none; */
+/* } */
 
-.projectText a {
-    text-decoration: underline;
-    font-weight: 300;
-}
+/* .projectDetails a:hover { */
+/*     text-decoration: underline; */
+/* } */
 
-.projectText a:hover {
-    text-decoration: none;
-}
+/* .projectText a { */
+/*     text-decoration: underline; */
+/*     font-weight: 300; */
+/* } */
 
-.nextProject a {
-    text-decoration: underline;
-}
+/* .projectText a:hover { */
+/*     text-decoration: none; */
+/* } */
 
-.nextProject a:hover {
-    text-decoration: none;
-}
+/* .nextProject a { */
+/*     text-decoration: underline; */
+/* } */
 
-.aboutWriting a {
-    text-decoration: underline;
-}
+/* .nextProject a:hover { */
+/*     text-decoration: none; */
+/* } */
 
-.aboutWriting a:hover {
-    text-decoration: none;
-}
+/* .aboutWriting a { */
+/*     text-decoration: underline; */
+/* } */
 
-.aboutText a:hover {
-    text-decoration: none;
-}
+/* .aboutWriting a:hover { */
+/*     text-decoration: none; */
+/* } */
 
-@media screen and (max-width: 768px) {
-    h1 {
-        font-size: 40px;
-    }
+/* .aboutText a:hover { */
+/*     text-decoration: none; */
+/* } */
 
-    h2, h3, h4 {
-        font-size: 24px;
-    }
+/* @media screen and (max-width: 768px) { */
+/*     h1 { */
+/*         font-size: 40px; */
+/*     } */
 
-    p, .aboutText a, a, a :visited, ul {
-        font-size: 20px;
-    }
+/*     h2, h3, h4 { */
+/*         font-size: 24px; */
+/*     } */
 
-}
+/*     p, .aboutText a, a, a :visited, ul { */
+/*         font-size: 20px; */
+/*     } */
+
+/* } */
