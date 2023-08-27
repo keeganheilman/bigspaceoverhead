@@ -13,8 +13,9 @@ body{
 a {
     color: #333;
     text-decoration: underline;
-    font-weight: bold;
+    font-weight: normal;
 }
+
 a[target="_blank"] { font-weight: normal; }
 
 /* Styling code blocks and their outputs */
