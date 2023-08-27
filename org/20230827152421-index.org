@@ -4,8 +4,11 @@
 #+title: Big Space Overhead
 
 * Purpose
-This is an experiement in personal notetaking.
-* Reading
-I'm starting with documenting the journey of material from [[id:f08ed5c1-1f9c-4cf5-b28f-c75d3d359ee5][the-reading-pile]], through [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-reading]], and eventually to [[id:75380696-4bb0-46d1-8594-48c6352393e9][have-read]]. Ideally, this will serve as a foundational loop of opportunity to generate notes, which will grow the network.
+This is an experiement in personal notetaking. And will forever be [[id:be0b7385-c457-4ba7-9cba-729be466c1f5][under-construction]].
+* Steps Forward
+** Reading
+I'm starting with documenting the journey of material from [[id:f08ed5c1-1f9c-4cf5-b28f-c75d3d359ee5][the-reading-pile]], through [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-reading]], and eventually to [[id:75380696-4bb0-46d1-8594-48c6352393e9][have-read]]. Ideally, this will serve as a foundational loop of opportunity to generate notes, growing the network.
+** Future Projects
+Will look to track other on-going projects here, depending on comfort/benefits of the process.
 
 

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       be0b7385-c457-4ba7-9cba-729be466c1f5
+:END:
+#+title: under-construction
+
+** TODO add remaining books on hand to [[id:f08ed5c1-1f9c-4cf5-b28f-c75d3d359ee5][the-reading-pile]].
+** TODO conceive how to best handle additional projects
+*** would it be best to generate a syllabus?
+
+
