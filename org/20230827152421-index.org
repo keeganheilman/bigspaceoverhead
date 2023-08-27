@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       fdbe63d8-230d-49d9-a8ac-16112af99eaf
+:END:
+#+title: Big Space Overhead
+
+* Purpose
+This is an experiement in personal notetaking.
+* Reading
+I'm starting with documenting the journey of material from [[id:f08ed5c1-1f9c-4cf5-b28f-c75d3d359ee5][the-reading-pile]], through [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-reading]], and eventually to [[id:75380696-4bb0-46d1-8594-48c6352393e9][have-read]]. Ideally, this will serve as a foundational loop of opportunity to generate notes, which will grow the network.
+
+
