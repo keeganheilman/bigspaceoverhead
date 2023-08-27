@@ -5,7 +5,7 @@
 
 #+BEGIN_VERSE
 This is the current list of materials being read. \\
-Items are selected from [[id:f08ed5c1-1f9c-4cf5-b28f-c75d3d359ee5][the-reading-pile]], read, then moved to [[id:c9706670-2fd6-4653-a248-5c0367c2678][have-read]] when completed.
+Items are selected from [[id:f08ed5c1-1f9c-4cf5-b28f-c75d3d359ee5][the-reading-pile]], read, then moved to [[id:75380696-4bb0-46d1-8594-48c6352393e9][have-read]] when completed.
 #+END_VERSE
 
 + Grant, Will. The Last Ride of the Pony Express \\

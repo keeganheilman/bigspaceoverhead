@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       efc58dfb-0394-4306-a830-86be9a472ee5
+:END:
+#+title: volunteer
+
+#+BEGIN VERSE
+Opportunities of interest to volunteer. \\
+#+END_VERSE
+
+** Red Rock Search and Rescue
+*** https://redrocksar.org/
+
+* resources to locate potential opportunities?
