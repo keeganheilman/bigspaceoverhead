@@ -2,9 +2,10 @@
 :ID:       f08ed5c1-1f9c-4cf5-b28f-c75d3d359ee5
 :END:
 #+title: the-reading-pile
-
+#+BEGIN_VERSE
 This is the ever-growing -- always incomplete -- heap of texts for perspective.
 Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-reading]] then eventually to [[id:75380696-4bb0-46d1-8594-48c6352393e9][have-read]].
+#+END_VERSE
 
 - Cover, Thomas M. & Thomas Joy A. Elements of Information Theory \\
   [[id:9ee7358e-dd99-4a07-bc1f-674864548bd7][information-theory]] |
