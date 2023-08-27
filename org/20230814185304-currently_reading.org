@@ -4,5 +4,5 @@
 #+title: currently-reading
 
 + Grant, Will. The Last Ride of the Pony Express \\
-  -[█████████----------] 45% complete-
+  [█████████----------] 45% complete
  
