@@ -6,16 +6,27 @@
 This is the ever-growing -- always incomplete -- heap of texts for perspective.
 Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-reading]] then eventually to [[id:75380696-4bb0-46d1-8594-48c6352393e9][have-read]].
 
-** Information Theory
-- Pierce, John R. An Introduction to Information Theory: Symbols, Signals and Noise
-
-** History
-- Harris, Malcolm. Palo Alto: A History of California, Capitalism and the World
-- Glenny, Misha. The Balkans: Nationalism, War, and the Great Powers (1804-2011)
-  
-
-** Fiction
-- Miéville, China. The City & the City
-- Mishima, Yukio. Life For Sale
-
-
+- Cover, Thomas M. & Thomas Joy A. Elements of Information Theory \\
+  [[[id:9ee7358e-dd99-4a07-bc1f-674864548bd7][information-theory]]]
+- Dalrymple. William. The Anarchy \\
+  [[[id:ee216e82-8c5c-4ac3-be61-db5b67263e4f][history]]]
+- Glenny, Misha. The Balkans: Nationalism, War, and the Great Powers (1804-2011) \\
+  [[[id:ee216e82-8c5c-4ac3-be61-db5b67263e4f][history]]]
+- Grief, Mark. Against Everything \\
+  [[[id:800fc7ad-7b4b-451a-b42f-bd546993399b][essays]]]
+- Harris, Malcolm. Palo Alto: A History of California, Capitalism and the World \\
+  [[[id:ee216e82-8c5c-4ac3-be61-db5b67263e4f][history]]]
+- Jameson, Fredric. Allegory and Ideology \\
+  [[[id:1f5b2dc2-ff42-46cd-85fe-c3b5a2c5d58d][criticism]]]
+- McPhee, John. Annals of the Former World \\
+  [[[id:ee216e82-8c5c-4ac3-be61-db5b67263e4f][history]]]
+- Miéville, China. The City & the City \\
+  [[[id:e5099cdb-cd08-451c-b471-c2f8a8d64c88][fiction]]]
+- Millier, William Ian. The Anatomy of Disgust \\
+  [[[id:1f5b2dc2-ff42-46cd-85fe-c3b5a2c5d58d][criticism]]]
+- Mishima, Yukio. Life For Sale \\
+  [[[id:e5099cdb-cd08-451c-b471-c2f8a8d64c88][fiction]]]
+- Pierce, John R. An Introduction to Information Theory: Symbols, Signals and Noise \\
+  [[[id:9ee7358e-dd99-4a07-bc1f-674864548bd7][information-theory]]]
+- Russell, Edward. The Knights of Bushido \\
+  [[[id:ee216e82-8c5c-4ac3-be61-db5b67263e4f][history]]]
