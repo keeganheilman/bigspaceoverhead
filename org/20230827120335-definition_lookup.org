@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       4105b34e-6a57-4ae3-a17d-e323fec4c743
+:END:
+#+title: definition-lookup
+
+
+* A
+**
+* B
+* C
+* D
+* E
+* F
+* G
+* H
+* I
+* J
+* K
+* L
+* M
+* N
+* O
+* P
+* Q
+* R
+* S
+* T
+* U
+* V
+* W
+* X
+* Y
+* Z
+
+[[id:bc2f0d5e-b987-4777-8a5b-4ebc197a2878][general-index]]
