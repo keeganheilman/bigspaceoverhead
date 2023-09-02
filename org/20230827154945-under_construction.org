@@ -4,7 +4,9 @@
 #+title: under-construction
 
 ** TODO add remaining books on hand to [[id:f08ed5c1-1f9c-4cf5-b28f-c75d3d359ee5][the-reading-pile]].
+*** TODO add books found on [[id:01c5ee86-39c2-463d-811d-214e73d4d9bb][category-computer-vision]].
 ** TODO conceive how to best handle additional projects
 *** would it be best to generate a syllabus?
+** TODO how do I want to format [[id:4105b34e-6a57-4ae3-a17d-e323fec4c743][definition-lookup]]?
 
 

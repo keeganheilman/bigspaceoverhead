@@ -9,6 +9,10 @@
 * B
 * C
 * D
+** dint
+- force, power
+- to make a dent in
+- to impress or drive in with force 
 * E
 * F
 * G
