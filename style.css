@@ -3,7 +3,7 @@ body{
     font-size:18px;
     margin: 40px auto;
     max-width: 820px;
-    background:#b0b386; /* #b6c26d;*/
+    background:#c5c7ab; /* #b6c26d;*/
     padding:0 20px
     color: #333;
 }
@@ -41,11 +41,21 @@ a[target="_blank"] { font-weight: normal; }
 
 
 h1 {
-   font-family: sans-serif;
+   font-family: 'DejaVu Sans Mono', monospace;
+    display: block;
+    font-size: 1.8em;
+    margin-top: 0.67em;
+    margin-bottom: 0.34em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+h2 {
     display: block;
     font-size: 1.2em;
     margin-top: 0.67em;
-    margin-bottom: 0.67em;
+    margin-bottom: 0.34em;
     margin-left: 0;
     margin-right: 0;
     font-weight: bold;
