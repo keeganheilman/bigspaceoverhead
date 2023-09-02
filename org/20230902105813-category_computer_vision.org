@@ -39,8 +39,8 @@
   [[http://cs231n.stanford.edu/][link]] \\
   
 ** textbooks
-- Szeliski, Richard.[[id:86407e24-a970-45ae-af02-423794329cbc][Computer Vision: Algorithms and Applications, 2nd ed.]] \\
-- Forsyth & Ponce. [[id:c0c2d9bb-8298-4406-bd7a-3415e2fa14c1][Computer Vision: A Modern Approach 2nd ed.]] \\
+- Szeliski, Richard. [[id:86407e24-a970-45ae-af02-423794329cbc][Computer Vision: Algorithms and Applications, 2nd ed.]] \\
+- Forsyth & Ponce. [[id:c0c2d9bb-8298-4406-bd7a-3415e2fa14c1][Computer Vision: A Modern Approach, 2nd ed.]] \\
 - Hastie, Tibshirani, & Friedman. [[id:f2173c7c-5658-46f3-b55e-a29d757e988a][The Elements of Statistical Learning]] \\
   
 ** additional recommended reading

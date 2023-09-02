@@ -118,7 +118,7 @@
   (when (org-roam-node-at-point)
     (save-excursion
       (goto-char (point-max))
-      (insert "\n*page mentions:\n")
+      (insert "\n page mentions:\n")
       (my/collect-roam-backlinks backend))))
 
 (defun my/collect-roam-backlinks (backend)
