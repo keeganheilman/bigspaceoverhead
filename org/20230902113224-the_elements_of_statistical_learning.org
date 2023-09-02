@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f2173c7c-5658-46f3-b55e-a29d757e988a
+:END:
+#+title: Hastie, Tibshirani, Friedman. The Elements of Statistical Learning
+
+#+BEGIN-VERSE
+https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12.pdf
+#+END-VERSE
+
+

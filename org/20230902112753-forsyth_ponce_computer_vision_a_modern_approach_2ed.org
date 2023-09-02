@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c0c2d9bb-8298-4406-bd7a-3415e2fa14c1
+:END:
+#+title: Forsyth & Ponce. Computer Vision A Modern Approach 2nd ed.
+
+#+BEGIN-VERSE
+http://luthuli.cs.uiuc.edu/~daf/CV2E-site/cv2eindex.html
+#+END-VERSE
+

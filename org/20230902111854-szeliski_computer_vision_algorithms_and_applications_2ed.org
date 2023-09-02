@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       86407e24-a970-45ae-af02-423794329cbc
+:END:
+#+title: Computer Vision: Algorithms and Applications 2ed.
+
+#+BEGIN-VERSE
+http://szeliski.org/Book/
+#+END-VERSE
+

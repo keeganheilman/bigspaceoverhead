@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       01c5ee86-39c2-463d-811d-214e73d4d9bb
+:END:
+#+title: category-computer-vision
+
+
+* a computer vision topics[fn:1]
+** Image formation / projective geometry /lighting
+** Practical linear algebra
+** Image processing / descriptors
+** Image warping
+** Linear models + optimization
+** Applications of neural networks
+** motion and flow
+** single-view geometry
+** multi-view geometry
+
+* suggested prerequisites
+- Data structures \\
+- programming language(s) (suggested: python/C++) \\
+- statistics & probability \\
+- git and GitHub \\
+- Linear algebra \\
+- vector calculus \\
+
+* additional resources
+** courses
+- CSE 576: Introduction to Computer Vision. Steve Seitz, Rick Szeliski, Harpreet Sawhney. UWASH S20. \\
+  [[https://courses.cs.washington.edu/courses/cse576/20sp/][link]] \\
+- CS 5670: Introduction to Computer Vision. Noah Snavely. Cornell Tech S23. \\
+  [[http://www.cs.cornell.edu/courses/cs5670/2023sp/][link]] \\
+- EECS 504: Foundations of Computer Vision. Andrew Owens. UMICH W20.  \\
+  [[https://web.eecs.umich.edu/~ahowens/eecs504/w20/][link]] \\
+- CSAIL 6.8300/6.8301: Advances in Computer Vision. Bill Freeman, Antonio Torralba, & Phillip Isola. MIT S23. \\
+  [[http://6.8300.csail.mit.edu/sp23/materials.html][link]] \\
+- EECS 498.008/598.008: Deep Learning for Computer Vision. Justin Johnson. UMICH W22. \\
+  [[https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/syllabus.html][link]] \\
+- CS231n: Deep Learning for Computer Vision. Fei Fei Li, Yunzhu Li, & Ruohan Gao. Standord S23. \\
+  [[http://cs231n.stanford.edu/][link]] \\
+  
+** books
+- Szeliski, Richard.[[id:86407e24-a970-45ae-af02-423794329cbc][Computer Vision: Algorithms and Applications, 2nd ed.]] \\
+- Forsyth & Ponce. [[id:c0c2d9bb-8298-4406-bd7a-3415e2fa14c1][Computer Vision: A Modern Approach 2nd ed.]] \\
+- Hastie, Tibshirani, & Friedman. [[id:f2173c7c-5658-46f3-b55e-a29d757e988a][The Elements of Statistical Learning]] \\
+  
+** additional recommended reading
+- Palmer, S. E. (1999). Vision Science: Photons to Phenomenology. The MIT Press, Cambridge, Massachusetts. \\
+  [[https://mitpress.mit.edu/9780262161831/vision-science/][link]] \\
+- 
+  
+
+
+
+[fn:1] originally derived from [[https://web.eecs.umich.edu/~justincj/teaching/eecs442//WI2020/syllabus.html][syllabus link]] \\
