@@ -11,12 +11,16 @@ Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-rea
   [[id:9ee7358e-dd99-4a07-bc1f-674864548bd7][information-theory]]
 - Dalrymple. William. The Anarchy \\
   [[id:ee216e82-8c5c-4ac3-be61-db5b67263e4f][history]]
+- Forsyth & Ponce. [[id:c0c2d9bb-8298-4406-bd7a-3415e2fa14c1][Computer Vision: A Modern Approach, 2nd ed.]] \\
+  [[id:01c5ee86-39c2-463d-811d-214e73d4d9bb][computer-vision]]
 - Glenny, Misha. The Balkans: Nationalism, War, and the Great Powers (1804-2011) \\
   [[id:ee216e82-8c5c-4ac3-be61-db5b67263e4f][history]]
 - Grief, Mark. Against Everything \\
   [[id:800fc7ad-7b4b-451a-b42f-bd546993399b][essays]]
 - Harris, Malcolm. Palo Alto: A History of California, Capitalism and the World \\
   [[id:ee216e82-8c5c-4ac3-be61-db5b67263e4f][history]]
+- Hastie, Tibshirani, & Friedman. [[id:f2173c7c-5658-46f3-b55e-a29d757e988a][The Elements of Statistical Learning]] \\
+  [[id:01c5ee86-39c2-463d-811d-214e73d4d9bb][computer-vision]]
 - Jameson, Fredric. Allegory and Ideology \\
   [[id:1f5b2dc2-ff42-46cd-85fe-c3b5a2c5d58d][criticism]]
 - McPhee, John. Annals of the Former World \\
@@ -31,3 +35,6 @@ Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-rea
   [[id:9ee7358e-dd99-4a07-bc1f-674864548bd7][information-theory]]
 - Russell, Edward. The Knights of Bushido \\
   [[id:ee216e82-8c5c-4ac3-be61-db5b67263e4f][history]]
+- Szeliski, Richard. [[id:86407e24-a970-45ae-af02-423794329cbc][Computer Vision: Algorithms and Applications, 2nd ed.]] \\
+  [[id:01c5ee86-39c2-463d-811d-214e73d4d9bb][computer-vision]]
+
