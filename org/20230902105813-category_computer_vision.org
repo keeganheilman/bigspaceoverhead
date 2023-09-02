@@ -2,7 +2,7 @@
 :ID:       01c5ee86-39c2-463d-811d-214e73d4d9bb
 :END:
 #+title: category-computer-vision
-
+-----
 
 * computer vision topics[fn:1]
 - image formation / projective geometry / lighting
