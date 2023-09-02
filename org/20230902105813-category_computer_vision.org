@@ -4,23 +4,23 @@
 #+title: category-computer-vision
 
 
-* a computer vision topics[fn:1]
-** Image formation / projective geometry /lighting
-** Practical linear algebra
-** Image processing / descriptors
-** Image warping
-** Linear models + optimization
-** Applications of neural networks
-** motion and flow
-** single-view geometry
-** multi-view geometry
+* computer vision topics[fn:1]
+- image formation / projective geometry / lighting
+- practical linear algebra
+- image processing / descriptors
+- image warping
+- linear models and optimization
+- applications of neural networks
+- motion and flow
+- single-view geometry
+- multi-view geometry
 
 * suggested prerequisites
-- Data structures \\
+- data structures \\
 - programming language(s) (suggested: python/C++) \\
 - statistics & probability \\
 - git and GitHub \\
-- Linear algebra \\
+- linear algebra \\
 - vector calculus \\
 
 * additional resources
@@ -38,7 +38,7 @@
 - CS231n: Deep Learning for Computer Vision. Fei Fei Li, Yunzhu Li, & Ruohan Gao. Standord S23. \\
   [[http://cs231n.stanford.edu/][link]] \\
   
-** books
+** textbooks
 - Szeliski, Richard.[[id:86407e24-a970-45ae-af02-423794329cbc][Computer Vision: Algorithms and Applications, 2nd ed.]] \\
 - Forsyth & Ponce. [[id:c0c2d9bb-8298-4406-bd7a-3415e2fa14c1][Computer Vision: A Modern Approach 2nd ed.]] \\
 - Hastie, Tibshirani, & Friedman. [[id:f2173c7c-5658-46f3-b55e-a29d757e988a][The Elements of Statistical Learning]] \\
@@ -46,9 +46,12 @@
 ** additional recommended reading
 - Palmer, S. E. (1999). Vision Science: Photons to Phenomenology. The MIT Press, Cambridge, Massachusetts. \\
   [[https://mitpress.mit.edu/9780262161831/vision-science/][link]] \\
-- 
+  
+
+** etc.
+- [[https://github.com/jbhuang0604/awesome-computer-vision][awesome-computer-vision links]]
   
 
 
-
+-----
 [fn:1] originally derived from [[https://web.eecs.umich.edu/~justincj/teaching/eecs442//WI2020/syllabus.html][syllabus link]] \\

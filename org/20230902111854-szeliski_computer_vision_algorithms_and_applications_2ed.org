@@ -3,7 +3,7 @@
 :END:
 #+title: Computer Vision: Algorithms and Applications 2ed.
 
-#+BEGIN-VERSE
+#+BEGIN_VERSE
 http://szeliski.org/Book/
-#+END-VERSE
+#+END_VERSE
 
