@@ -6,4 +6,23 @@
 #+BEGIN_VERSE
 http://szeliski.org/Book/
 #+END_VERSE
+-----
 
+* introduction
+* image formation
+* image processing
+* model fitting and optimization
+* deep learning
+* recognition
+* feature detection and matching
+* image alignment and stiching
+* motion estimation
+* computational photography
+* structure from motion and SLAM
+* depth estimation
+* 3d reconstruction
+* image-baseed rendering
+* conclusion
+
+
+-----
