@@ -23,7 +23,7 @@
 - linear algebra \\
 - vector calculus \\
 
-* additional resources
+* resources
 ** courses
 - CSE 576: Introduction to Computer Vision. Steve Seitz, Rick Szeliski, Harpreet Sawhney. UWASH S20. \\
   [[https://courses.cs.washington.edu/courses/cse576/20sp/][link]] \\
