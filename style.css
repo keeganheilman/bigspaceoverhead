@@ -43,7 +43,7 @@ a[target="_blank"] { font-weight: normal; }
 h1 {
    font-family: 'DejaVu Sans Mono', monospace;
     display: block;
-    font-size: 1.8em;
+    font-size: 1.4em;
     margin-top: 0.67em;
     margin-bottom: 0.34em;
     margin-left: 0;
@@ -61,6 +61,11 @@ h2 {
     font-weight: bold;
 }
 
+h2 {
+    display: block;
+    margin-top: 0.67em;
+    margin-bottom: 0.34em;
+}
 
 
 
