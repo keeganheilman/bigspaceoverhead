@@ -1,7 +1,8 @@
 :PROPERTIES:
 :ID:       fdbe63d8-230d-49d9-a8ac-16112af99eaf
 :END:
-#+title: Big Space Overhead
+#+title: big space overhead
+-----
 
 * Purpose
 This is an experiement in personal notetaking. And will forever be [[id:be0b7385-c457-4ba7-9cba-729be466c1f5][under-construction]].
@@ -11,4 +12,4 @@ I'm starting with documenting the journey of material from [[id:f08ed5c1-1f9c-4c
 ** Future Projects
 Will look to track other on-going projects here, depending on comfort/benefits of the process.
 
-
+-----
