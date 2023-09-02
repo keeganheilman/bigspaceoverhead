@@ -3,7 +3,7 @@ body{
     font-size:18px;
     margin: 40px auto;
     max-width: 820px;
-    background: #b6c26d;
+    background:#b0b386; /* #b6c26d;*/
     padding:0 20px
     color: #333;
 }
@@ -41,30 +41,36 @@ a[target="_blank"] { font-weight: normal; }
 
 
 h1 {
-   font-family: 'Franklin Gothic';
+   font-family: sans-serif;
     display: block;
     font-size: 1.2em;
-    margin-top: 0.80em;
+    margin-top: 0.67em;
     margin-bottom: 0.67em;
     margin-left: 0;
     margin-right: 0;
-    font-weight: normal;
+    font-weight: bold;
 }
 
 
 
 
 .title {
-    
-}
+    font-family: 'DejaVu Sans Mono', monospace;
+    font-weight: bold;
+}    
+
 
 
 .verse {
-    font-style: italic
+    font-style: italic;
 }
 
-Footer
+Footer {
+    display: block;
+    font-weight: normal;
+    font-style: italic;
 
+}
 
 
 body {
