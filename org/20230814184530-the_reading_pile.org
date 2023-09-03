@@ -2,6 +2,8 @@
 :ID:       f08ed5c1-1f9c-4cf5-b28f-c75d3d359ee5
 :END:
 #+title: the-reading-pile
+-----
+
 #+BEGIN_VERSE
 This is the ever-growing -- always incomplete -- heap of texts for perspective.
 Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-reading]] and eventually to [[id:75380696-4bb0-46d1-8594-48c6352393e9][have-read]].
@@ -23,6 +25,8 @@ Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-rea
   [[id:01c5ee86-39c2-463d-811d-214e73d4d9bb][computer-vision]]
 - Jameson, Fredric. Allegory and Ideology \\
   [[id:1f5b2dc2-ff42-46cd-85fe-c3b5a2c5d58d][criticism]]
+- Jodorowsky, Alexandro & Moebiius. The Incal \\
+  [[id:e5099cdb-cd08-451c-b471-c2f8a8d64c88][fiction]], [[id:68b7fb77-860a-4239-8514-b0c82148df2e][graphic-novel]]
 - McPhee, John. Annals of the Former World \\
   [[id:ee216e82-8c5c-4ac3-be61-db5b67263e4f][history]] 
 - Miéville, China. The City & the City \\
@@ -30,7 +34,9 @@ Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-rea
 - Millier, William Ian. The Anatomy of Disgust \\
   [[id:1f5b2dc2-ff42-46cd-85fe-c3b5a2c5d58d][criticism]]
 - Mishima, Yukio. Life For Sale \\
-  [[id:e5099cdb-cd08-451c-b471-c2f8a8d64c88][fiction]] 
+  [[id:e5099cdb-cd08-451c-b471-c2f8a8d64c88][fiction]]
+- Otomo, Katsishiro. Akira, Vol. 1 \\
+  [[id:e5099cdb-cd08-451c-b471-c2f8a8d64c88][fiction]], [[id:68b7fb77-860a-4239-8514-b0c82148df2e][graphic-novel]]
 - Pierce, John R. An Introduction to Information Theory: Symbols, Signals and Noise \\
   [[id:9ee7358e-dd99-4a07-bc1f-674864548bd7][information-theory]]
 - Russell, Edward. The Knights of Bushido \\
@@ -38,3 +44,4 @@ Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-rea
 - Szeliski, Richard. [[id:86407e24-a970-45ae-af02-423794329cbc][Computer Vision: Algorithms and Applications, 2nd ed.]] \\
   [[id:01c5ee86-39c2-463d-811d-214e73d4d9bb][computer-vision]]
 
+-----

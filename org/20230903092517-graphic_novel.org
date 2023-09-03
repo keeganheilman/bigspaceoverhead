@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       68b7fb77-860a-4239-8514-b0c82148df2e
+:END:
+#+title: graphic-novel
+-----
+
+long-form graphical work
+  
+-----
