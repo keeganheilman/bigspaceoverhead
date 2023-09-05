@@ -8,6 +8,8 @@ Stuff that makes it here should have some notes.
 We'll see how diligent I remain.
 #+END_VERSE
 
+-----
+
 + Asimov, Isaac. The Last Question \\
   [[https://users.ece.cmu.edu/~gamvrosi/thelastq.html][link]] \\
 + Boxerman, Alex & Méheut, Constant. FIFA Suspends Spanish Soccer Federation Chief Involved in Post-Game Kiss \\
@@ -16,6 +18,10 @@ We'll see how diligent I remain.
   [[id:4e19a1d3-1d5e-4324-bab0-a1c872bd87c8][note]] | [[https://zenlasvegas.com/100-a-synopsis-of-sorts/][link]] \\
 + Kelly, Maura. Where Everybody Knows Your Name \\
   [[https://www.nytimes.com/2023/08/11/well/become-a-regular-loneliness.html][link]] \\
++ Lemire, Jeff. Primordial \\
+  [[https://imagecomics.com/comics/series/primordial][link]] \\
++ Tsuge, Tadao. Slum Wolf \\
+  [[https://www.nyrb.com/products/slum-wolf][link]] \\
 + Segal, David. A Summer Rite in Spain: Coping with British Tourist Invasion\\
   [[https://www.nytimes.com/2023/08/20/business/british-tourists-mallorca-drinking-local-economy.html][link]] \\
 + Smith, Rory. For Spain, a World Cup Title Built on Talent, Not Harmony \\
@@ -23,3 +29,4 @@ We'll see how diligent I remain.
 + Strauss, Alix. How an Ice Cream Scooper and Aspiring Actor Spends His Sundays
   [[https://www.nytimes.com/2023/08/26/nyregion/denzel-rodriguez-sugar-hill-creamery.html][link]] \\
   
+-----
