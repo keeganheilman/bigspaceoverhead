@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       788cbb66-2762-4a9d-adad-64b99b14768f
+:END:
+#+title: torch-stunt
+-----
+
+
+A "read" stunt performed by two interior defensive linemen (iDL). \\
+The two iDL read the Center. When the Center turns toward the iDL, that iDL loops to the opposite A Gap.\\
+Meanwhile, the iDL from which the Center turned away impedes the Center from tracking the looping iDL. \\
+
+
+ref: [[https://matchquarters.substack.com/p/rain-check-bill-belichick-patriots][MatchQuarters:Rain Check!]]
+-----

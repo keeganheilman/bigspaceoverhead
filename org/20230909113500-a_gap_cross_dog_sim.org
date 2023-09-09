@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e04c7476-bc4d-45ed-95ef-0677731bc668
+:END:
+#+title: mex-path
+-----
+
+/Cross/ or /V-Tech/ blitzer reads the Center crossing face if the Center turns toward, and path-of-least-resistance behind  the Center, if turned away.\\
+
+
+
+\\ ref:[[https://matchquarters.substack.com/p/the-mex-path-a-c-insert-creeper][MatchQuarters: The MEX Path]], [[https://matchquarters.substack.com/p/rain-check-bill-belichick-patriots][MatchQuarters:Rain Check!]]
+
+-----

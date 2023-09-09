@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       3ffd9466-6bd3-4c16-93c0-722925dd933e
+:END:
+#+title: rain-check
+-----
+
+
++ A pressure from a static "base" look.
++ defense's intention is to appear uncomplicated to lure a response from the offensive protection. The response invoked is one that may be keyed from a defensive perspective, allowing a "read" from the defensive players and trigger a response that is advantageous.
+  + this "read" could be the slide or the function of a certain lineman, path of the RB, etc.
+  + a "read" pressure example is the [[id:788cbb66-2762-4a9d-adad-64b99b14768f][torch-stunt]]
++ the two box LBs will stem to the B-gaps and simulate a blitz
++ post-snap LBs "read" slide of protection
+  + Belichick "pinches" interior defensive linemen to force a more pronounced slide, assisting the LBs "read"
++ when the slide is toward the LB, they pop to coverage opposite the slide.
++ when the slide is away from the LB, they blitz the B-gap.
++ idea is to pressure only to the weakness of the pass protection.
++ expectation of Empty protection, full-slide
+
+
+\\ ref: [[https://matchquarters.substack.com/p/rain-check-bill-belichick-patriots][MatchQuarters: Rain Check!]]
+
+
+-----

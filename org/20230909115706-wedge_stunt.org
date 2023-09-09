@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       fb7257c2-db75-4f20-b3d2-ca4595e4477d
+:END:
+#+title: wedge-stunt
+-----
+
+A "read" stunt occurring between edge player and interior defensive lineman. \\
+Edge player reads the offensive Tackle (OT). If his set is deep, the Edge player folds to the A gap behind the iDL, who simulateously is working to broaden the B Gap.
+
+
+\\ ref: [[https://matchquarters.substack.com/p/rain-check-bill-belichick-patriots][MatchQuarters: Rain Check!]]
+-----

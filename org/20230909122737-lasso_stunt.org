@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c9a013e1-2b0e-46f0-9cdf-05c45654606a
+:END:
+#+title: lasso-stunt
+k-----
+
+three defensive linemen movement. \\ 
+edge player and interior defensive lineman each slant one gap inside, while the next interior defensive linemen loops over to the offensive Tackle.
+
+
+// ref: [[https://matchquarters.substack.com/p/rain-check-bill-belichick-patriots][MatchQuarters: Rain Check!]]
+
+-----
+

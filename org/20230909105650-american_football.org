@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       125dd7bd-7249-4f8d-91cb-36c23a358de9
+:END:
+#+title: american-football
+-----
+
+* defensive football
+
+** coverages
+
+** fronts
++ [[id:adf6100d-45ff-440b-8104-c0f3b296e7b1][jet-front]]
+
+** pressures
++ [[id:3ffd9466-6bd3-4c16-93c0-722925dd933e][rain-check]]
+
+*** simulated pressures
+
+*** creeper/replacement pressures
+
+*** front movement
++ [[id:788cbb66-2762-4a9d-adad-64b99b14768f][torch-stunt]]
++ [[id:e04c7476-bc4d-45ed-95ef-0677731bc668][mex-path]]
++ [[id:fb7257c2-db75-4f20-b3d2-ca4595e4477d][wedge-stunt]]
+
+-----
