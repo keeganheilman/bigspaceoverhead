@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8505fb27-95ba-4dd0-b063-fadc6514e4a6
+:END:
+#+title: why-is-cv-so-hard
+-----
+
+** why is computer vision so hard?
+- ill-posed problem
+
+challenges include variation in view point, differences in illumination, occlusion, scale, deformations, background clutter, object intra-class variation, local ambiguity
+
+
+
+-----

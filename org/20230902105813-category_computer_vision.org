@@ -36,7 +36,7 @@
 - EECS 498.008/598.008: Deep Learning for Computer Vision. Justin Johnson. UMICH W22. \\
   [[https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/syllabus.html][link]] \\
 - CS231n: Deep Learning for Computer Vision. Fei Fei Li, Yunzhu Li, & Ruohan Gao. Standord S23. \\
-  [[http://cs231n.stanford.edu/][link]] \\
+  [[http://cs231n.stanford.edu/][link]] | [[https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC][lectures]] \\
   
 ** textbooks
 - Szeliski, Richard. [[id:86407e24-a970-45ae-af02-423794329cbc][Computer Vision: Algorithms and Applications, 2nd ed.]] \\
@@ -52,6 +52,12 @@
 - [[https://github.com/jbhuang0604/awesome-computer-vision][awesome-computer-vision links]]
   
 
+** levels of computer vision
+- [[id:9a81825d-9d04-4443-83a8-a152c96170ee][cv-low-level-vision]]
+- [[id:934c44fd-7d72-44ed-8f58-40feaeeb903a][cv-mid-level-vision]]
+- [[id:1413613e-ab7e-4a52-8247-de0dfe4456c4][cv-high-level-vision]]
+
+- [[id:8505fb27-95ba-4dd0-b063-fadc6514e4a6][why-is-cv-so-hard]]
 
 -----
 [fn:1] originally derived from [[https://web.eecs.umich.edu/~justincj/teaching/eecs442//WI2020/syllabus.html][syllabus link]] \\

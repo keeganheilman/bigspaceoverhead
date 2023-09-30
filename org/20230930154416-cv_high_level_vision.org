@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       1413613e-ab7e-4a52-8247-de0dfe4456c4
+:END:
+#+title: cv-high-level-vision
+-----
+
+** high level vision
+- category detection
+- activity recognition
+- deep understandings
+
+
+-----

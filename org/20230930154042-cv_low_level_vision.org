@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9a81825d-9d04-4443-83a8-a152c96170ee
+:END:
+#+title: cv-low-level-vision
+-----
+
+** low level vision
+- measurements
+- enhancements
+- region segmentation
+- features
+ 
+  
+

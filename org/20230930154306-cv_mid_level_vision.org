@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       934c44fd-7d72-44ed-8f58-40feaeeb903a
+:END:
+#+title: cv-mid-level-vision
+-----
+
+** mid level vision
+- reconstruction
+- depth
+- motion estimation
+
+
+
+
+-----
