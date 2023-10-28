@@ -23,4 +23,9 @@
 + [[id:e04c7476-bc4d-45ed-95ef-0677731bc668][mex-path]]
 + [[id:fb7257c2-db75-4f20-b3d2-ca4595e4477d][wedge-stunt]]
 
+
+* useful python packages
+- greerre - [[https://github.com/greerreNFL/nfeloqb/tree/main][nfeloqb]]
+
+
 -----
