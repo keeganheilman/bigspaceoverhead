@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       526656d5-1c5b-460f-8d1e-bf2a41d3a247
+:END:
+#+title: cs-data-sttructures-and-algorithms
+
+-----
+resources 
+- [[https://github.com/tayllan/awesome-algorithms][awesome-algorithms]]
+
+
+-----

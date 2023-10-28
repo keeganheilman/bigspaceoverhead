@@ -37,6 +37,8 @@ Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-rea
   [[id:e5099cdb-cd08-451c-b471-c2f8a8d64c88][fiction]]
 - Otomo, Katsishiro. Akira, Vol. 1 \\
   [[id:e5099cdb-cd08-451c-b471-c2f8a8d64c88][fiction]], [[id:68b7fb77-860a-4239-8514-b0c82148df2e][graphic-novel]]
+- Parcells, Bill  [[https://hbr.org/2000/11/the-tough-work-of-turning-around-a-team][The Tough Work of Turning Around a Team]] \\
+  [[id:800fc7ad-7b4b-451a-b42f-bd546993399b][essays]]
 - Pierce, John R. An Introduction to Information Theory: Symbols, Signals and Noise \\
   [[id:9ee7358e-dd99-4a07-bc1f-674864548bd7][information-theory]]
 - Russell, Edward. The Knights of Bushido \\
