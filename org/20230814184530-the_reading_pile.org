@@ -9,6 +9,8 @@ This is the ever-growing -- always incomplete -- heap of texts for perspective.
 Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-reading]] and eventually to [[id:75380696-4bb0-46d1-8594-48c6352393e9][have-read]].
 #+END_VERSE
 
+- Brunltett, Melissa. Curbing Traffic \\
+  [[id:89c1f29e-bc23-4513-bd48-b6ebc2bc1510][urban-studies]]
 - Cover, Thomas M. & Thomas Joy A. Elements of Information Theory \\
   [[id:9ee7358e-dd99-4a07-bc1f-674864548bd7][information-theory]]
 - Dalrymple. William. The Anarchy \\
@@ -27,6 +29,8 @@ Items move from here to [[id:c9706670-2fd6-4653-a248-5c0367c26780][currently-rea
   [[id:1f5b2dc2-ff42-46cd-85fe-c3b5a2c5d58d][criticism]]
 - Jodorowsky, Alexandro & Moebiius. The Incal \\
   [[id:e5099cdb-cd08-451c-b471-c2f8a8d64c88][fiction]], [[id:68b7fb77-860a-4239-8514-b0c82148df2e][graphic-novel]]
+- Knowles, Daniel. Carmageddon \\
+  [[id:89c1f29e-bc23-4513-bd48-b6ebc2bc1510][urban-studies]]
 - McPhee, John. Annals of the Former World \\
   [[id:ee216e82-8c5c-4ac3-be61-db5b67263e4f][history]] 
 - Miéville, China. The City & the City \\

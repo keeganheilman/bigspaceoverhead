@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       89c1f29e-bc23-4513-bd48-b6ebc2bc1510
+:END:
+#+title: urban-studies
+-----
+
+#+BEGIN_VERSE
+study of the urban development of cities and regions — it makes up the theory portion of the field of urban planning.
+#+END_VERSE
+
+
+
+  
+
+-----
